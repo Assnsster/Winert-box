@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="image.png" alt="Sublime's custom image
-    width: 280px,
-    height: auto"/>
+<img src="image.jpg" alt="drawing" style="width:200px;"/>
 </p>
 
 ## Tìm Hiểu 

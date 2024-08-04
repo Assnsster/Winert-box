@@ -1,5 +1,5 @@
 <p align="center">
-<img src="image.jpg" alt="drawing" style="width:200px;"/>
+<img src="image.png" alt="drawing" style="width:200px;"/>
 </p>
 
 ## Tìm Hiểu 

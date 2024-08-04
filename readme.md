@@ -1,1 +1,1 @@
-![logo](Wine.png "logo")
+![logo](image.png "logo")
